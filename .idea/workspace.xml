@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="db719ddb-3691-4e06-b9d8-445e7cbeb92a" name="Default" comment="" />
+    <list default="true" id="db719ddb-3691-4e06-b9d8-445e7cbeb92a" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/service/signature/Signature.php" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/cliente/Cliente.php" afterPath="$PROJECT_DIR$/cliente/Cliente.php" />
+      <change beforePath="$PROJECT_DIR$/service/Service.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/signature/Signature.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/signature/SignatureMonthly.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/signature/SignatureSemester.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/signature/SignatureYearly.php" afterPath="" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,41 +30,41 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="Cliente.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cliente/Cliente.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="5" lean-forward="true" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="Signature.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/signature/Signature.php">
+        <entry file="file://$PROJECT_DIR$/service/signature/Signature.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <state relative-caret-position="36">
+              <caret line="16" column="39" lean-forward="true" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SignatureMonthly.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/signature/SignatureMonthly.php">
+      <file leaf-file-name="Service.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/service/Service.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="447">
-              <caret line="53" column="0" lean-forward="false" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+            <state relative-caret-position="119">
+              <caret line="7" column="4" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SignatureSemester.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/signature/SignatureSemester.php">
+      <file leaf-file-name="SendEmail.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/service/SendEmail.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="362">
-              <caret line="48" column="8" lean-forward="false" selection-start-line="48" selection-start-column="8" selection-end-line="53" selection-end-column="61" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SignatureYearly.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/signature/SignatureYearly.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="32" lean-forward="false" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+            <state relative-caret-position="68">
+              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -78,12 +87,12 @@
         <option value="$PROJECT_DIR$/classes/SignatureSemestral.php" />
         <option value="$PROJECT_DIR$/classes/Signature.php" />
         <option value="$PROJECT_DIR$/classes/SignatureMensal.php" />
-        <option value="$PROJECT_DIR$/service/Service.php" />
-        <option value="$PROJECT_DIR$/cliente/Cliente.php" />
-        <option value="$PROJECT_DIR$/signature/Signature.php" />
         <option value="$PROJECT_DIR$/signature/SignatureMonthly.php" />
         <option value="$PROJECT_DIR$/signature/SignatureSemester.php" />
         <option value="$PROJECT_DIR$/signature/SignatureYearly.php" />
+        <option value="$PROJECT_DIR$/cliente/Cliente.php" />
+        <option value="$PROJECT_DIR$/signature/Signature.php" />
+        <option value="$PROJECT_DIR$/service/Service.php" />
       </list>
     </option>
   </component>
@@ -100,7 +109,9 @@
     <option name="width" value="1004" />
     <option name="height" value="701" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -116,6 +127,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -136,19 +149,23 @@
             <path>
               <item name="DesafioDeSoftware" type="b2602c69:ProjectViewProjectNode" />
               <item name="DesafioDeSoftware" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="service" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="signature" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/service" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -178,12 +195,13 @@
       <workItem from="1513889954236" duration="620000" />
       <workItem from="1513894818554" duration="14115000" />
       <workItem from="1513975147230" duration="68000" />
-      <workItem from="1513975309607" duration="1438000" />
+      <workItem from="1513975309607" duration="3163000" />
+      <workItem from="1513982889549" duration="3814000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16241000" />
+    <option name="totallyTimeSpent" value="21780000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="20" width="1026" height="744" extended-state="6" />
@@ -228,23 +246,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/signature/SignatureMonthly.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="901">
-          <caret line="53" column="0" lean-forward="false" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/signature/SignatureSemester.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/signature/Signature.php">
+    <entry file="file://$PROJECT_DIR$/signature/SignatureMonthly.php" />
+    <entry file="file://$PROJECT_DIR$/signature/SignatureSemester.php" />
+    <entry file="file://$PROJECT_DIR$/service/signature/Signature.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="697">
           <caret line="41" column="0" lean-forward="true" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
@@ -260,23 +264,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/signature/SignatureMonthly.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="901">
-          <caret line="53" column="0" lean-forward="false" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/signature/SignatureSemester.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/signature/Signature.php">
+    <entry file="file://$PROJECT_DIR$/signature/SignatureMonthly.php" />
+    <entry file="file://$PROJECT_DIR$/signature/SignatureSemester.php" />
+    <entry file="file://$PROJECT_DIR$/service/signature/Signature.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="595">
           <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
@@ -292,7 +282,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/signature/Signature.php">
+    <entry file="file://$PROJECT_DIR$/service/signature/Signature.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -302,6 +292,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/signature/Client.php" />
     <entry file="file://$PROJECT_DIR$/signature/SignatureSemestral.php" />
+    <entry file="file://$PROJECT_DIR$/signature/SignatureMensal.php" />
+    <entry file="file://$PROJECT_DIR$/signature/SignatureYearly.php" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/apache/apache.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-306">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/signature/SignatureMonthly.php" />
+    <entry file="file://$PROJECT_DIR$/signature/SignatureSemester.php" />
+    <entry file="file://$PROJECT_DIR$/cliente/Cliente.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="5" lean-forward="true" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/SendEmail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -310,49 +327,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/signature/SignatureMensal.php" />
-    <entry file="file://$PROJECT_DIR$/cliente/Cliente.php">
+    <entry file="file://$PROJECT_DIR$/service/signature/Signature.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="5" lean-forward="false" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        <state relative-caret-position="36">
+          <caret line="16" column="39" lean-forward="true" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/service/Service.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/signature/SignatureMonthly.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="447">
-          <caret line="53" column="0" lean-forward="false" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/signature/Signature.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/signature/SignatureSemester.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="48" column="8" lean-forward="false" selection-start-line="48" selection-start-column="8" selection-end-line="53" selection-end-column="61" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/signature/SignatureYearly.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="32" lean-forward="false" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+          <caret line="7" column="4" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
           <folding />
         </state>
       </provider>

@@ -2,8 +2,6 @@
 
 namespace Cliente;
 
-use Signature\SignatureMonthly;
-
 class Cliente
 {
     private $promotionalCode;
@@ -11,7 +9,8 @@ class Cliente
 
     public function __construct()
     {
-        $this->signature = new SignatureMonthly();
-        $this->promotionalCode = $this->signature->getCode();
+
     }
+
+    public function signUp($signature){}
 }

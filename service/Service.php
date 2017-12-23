@@ -1,9 +1,9 @@
 <?php
 
-namespace ServiceSystem;
+namespace System;
 
 
 class Service
 {
-
+    
 }
